@@ -1,0 +1,6 @@
+Sitemap: https://www.laboratorioempresarial.com/sitemap.xml
+
+User-agent: *
+
+
+Disallow: /privado/
